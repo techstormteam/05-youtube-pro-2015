@@ -1,0 +1,23 @@
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\Assets\ApplicationIcon.png
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\Assets\Tiles\IconicTileSmall.png
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\Youtube Pro 2015.dll
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\Youtube Pro 2015.pdb
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\AppManifest.xaml
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\Properties\WMAppManifest.xml
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\Youtube_Pro_2015_Release_AnyCPU.xap
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\Inneractive.Ad.dll
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Release\SOMAWP8.dll
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Release\App.g.cs
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Release\MainPage.g.cs
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Release\Views\PageAboutUs.g.cs
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Release\Youtube Pro 2015.g.resources
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Release\Youtube_Pro_2015.Resources.AppResources.resources
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Release\Youtube Pro 2015.csproj.GenerateResource.Cache
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Release\Youtube Pro 2015.dll
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Release\Youtube Pro 2015.pdb
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Release\XapCacheFile.xml
+E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Release\Youtube Pro 2015.csprojResolveAssemblyReference.cache
