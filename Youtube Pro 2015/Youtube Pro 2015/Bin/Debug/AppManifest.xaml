@@ -1,6 +1,7 @@
 ﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Youtube Pro 2015" EntryPointType="Youtube_Pro_2015.App" RuntimeVersion="4.7.50308.0">
   <Deployment.Parts>
     <AssemblyPart x:Name="Youtube Pro 2015" Source="Youtube Pro 2015.dll" />
+    <AssemblyPart x:Name="GoogleAds" Source="GoogleAds.dll" />
     <AssemblyPart x:Name="Inneractive.Ad" Source="Inneractive.Ad.dll" />
     <AssemblyPart x:Name="SOMAWP8" Source="SOMAWP8.dll" />
   </Deployment.Parts>

@@ -103,6 +103,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AppResources.resx</DependentUpon>
     </Compile>
+    <Compile Include="Utility\GoogleAd\GoogleAdHelper.cs" />
     <Compile Include="Utility\InneractiveNokiaAd\IaLocationClass.cs" />
     <Compile Include="Utility\InneractiveNokiaAd\InneractiveAdHelper.cs" />
     <Compile Include="Utility\InneractiveNokiaAd\InneractiveAdLocation.cs" />
@@ -164,6 +165,8 @@
     <Content Include="Assets\Tiles\IconicTileSmall.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Utility\GoogleAd\GoogleAds.dll" />
+    <Content Include="Utility\GoogleAd\GoogleAds.XML" />
     <Content Include="Utility\InneractiveNokiaAd\Inneractive.Ad.dll" />
     <Content Include="Utility\SOMAWP8.dll" />
   </ItemGroup>
@@ -174,6 +177,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="GoogleAds, Version=6.5.13.0, Culture=neutral, processorArchitecture=MSIL" />
     <Reference Include="Inneractive.Ad, Version=1.1.3.0, Culture=neutral, processorArchitecture=MSIL" />
     <Reference Include="SOMAWP8, Version=1.3.5279.34968, Culture=neutral, processorArchitecture=MSIL" />
   </ItemGroup>

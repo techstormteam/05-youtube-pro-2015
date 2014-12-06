@@ -23,6 +23,10 @@
         </Grid.ColumnDefinitions>
         <ProgressBar Grid.Row="0" Grid.Column="0" x:Name="progressBar" VerticalAlignment="Top" IsIndeterminate="True" Visibility="Collapsed" />
         <phone:WebBrowser Grid.Row="1" Grid.Column="1" Navigated="WebBrowser_Navigated" IsScriptEnabled="True" Name="webBrowser" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+        <StackPanel VerticalAlignment="Bottom">
+            <Grid x:Name="banner" />
+            <Grid x:Name="banner1" VerticalAlignment="Bottom" />
+        </StackPanel>
     </Grid>
 
     <phone:PhoneApplicationPage.ApplicationBar>

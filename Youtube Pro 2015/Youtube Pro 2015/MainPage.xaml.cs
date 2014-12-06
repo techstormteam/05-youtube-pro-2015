@@ -10,6 +10,7 @@ using Microsoft.Phone.Shell;
 using Youtube_Pro_2015.Resources;
 using Utility;
 using Utility.InneractiveNokiaAd;
+using KaraokeList2016.Utility.GoogleAd;
 
 namespace Youtube_Pro_2015
 {
@@ -45,7 +46,8 @@ namespace Youtube_Pro_2015
         {
             if (App.NeedShowAd)
             {
-                InneractiveAdHelper.DisplayInterstitial(LayoutRoot);
+                GoogleAdHelper.DisplayBanner(banner, "ca-app-pub-7278887713829891/3642241567");
+                GoogleAdHelper.DisplayBanner(banner1, "ca-app-pub-7278887713829891/7055196360");
                 App.NeedShowAd = false;
             }
             webBrowser.Navigate(new Uri(homeUrl, UriKind.Absolute));

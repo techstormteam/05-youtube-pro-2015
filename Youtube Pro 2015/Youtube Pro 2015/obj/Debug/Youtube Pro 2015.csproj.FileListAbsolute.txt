@@ -1,23 +1,25 @@
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\ApplicationIcon.png
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\Tiles\IconicTileSmall.png
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Youtube Pro 2015.dll
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Youtube Pro 2015.pdb
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\AppManifest.xaml
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Properties\WMAppManifest.xml
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Youtube_Pro_2015_Debug_AnyCPU.xap
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Inneractive.Ad.dll
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\SOMAWP8.dll
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube Pro 2015.csprojResolveAssemblyReference.cache
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\App.g.cs
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\MainPage.g.cs
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Views\PageAboutUs.g.cs
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube Pro 2015.g.resources
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube_Pro_2015.Resources.AppResources.resources
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube Pro 2015.csproj.GenerateResource.Cache
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube Pro 2015.dll
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube Pro 2015.pdb
-E:\Programming\sourcecode\vs2012\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\XapCacheFile.xml
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\ApplicationIcon.png
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Youtube Pro 2015.dll
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Youtube Pro 2015.pdb
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\AppManifest.xaml
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Properties\WMAppManifest.xml
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Youtube_Pro_2015_Debug_AnyCPU.xap
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\GoogleAds.dll
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\Inneractive.Ad.dll
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\SOMAWP8.dll
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\Bin\Debug\GoogleAds.xml
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube Pro 2015.csprojResolveAssemblyReference.cache
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\App.g.cs
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\MainPage.g.cs
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Views\PageAboutUs.g.cs
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube Pro 2015.g.resources
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube_Pro_2015.Resources.AppResources.resources
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube Pro 2015.csproj.GenerateResource.Cache
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube Pro 2015.dll
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\Youtube Pro 2015.pdb
+E:\Programming\sourcecode\vs2012\05-youtube-pro-2015\Youtube Pro 2015\Youtube Pro 2015\obj\Debug\XapCacheFile.xml
